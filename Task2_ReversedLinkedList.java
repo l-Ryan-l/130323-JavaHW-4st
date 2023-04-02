@@ -5,7 +5,7 @@ import java.util.Random;
 //Task 2:
 //Пусть дан LinkedList с несколькими элементами.
 //Реализуйте метод, который вернет “перевернутый” список.
-public class Task2_RevertLinkedList {
+public class Task2_ReversedLinkedList {
     public static void main(String[] args) {
         Random random = new Random();
         List<Integer> originLinkedList = new LinkedList<>();
